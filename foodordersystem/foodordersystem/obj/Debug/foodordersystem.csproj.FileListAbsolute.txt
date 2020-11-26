@@ -1,0 +1,29 @@
+C:\Users\jeril\Documents\Visual Studio 2012\Projects\foodordersystem\foodordersystem\bin\foodordersystem.dll
+C:\Users\jeril\Documents\Visual Studio 2012\Projects\foodordersystem\foodordersystem\bin\foodordersystem.pdb
+C:\Users\jeril\Documents\Visual Studio 2012\Projects\foodordersystem\foodordersystem\obj\Debug\foodordersystem.csprojResolveAssemblyReference.cache
+C:\Users\jeril\Documents\Visual Studio 2012\Projects\foodordersystem\foodordersystem\obj\Debug\foodordersystem.dll
+C:\Users\jeril\Documents\Visual Studio 2012\Projects\foodordersystem\foodordersystem\obj\Debug\foodordersystem.pdb
+C:\Users\USER\Documents\Visual Studio 2012\Projects\foodordersystem\foodordersystem\bin\foodordersystem.dll
+C:\Users\USER\Documents\Visual Studio 2012\Projects\foodordersystem\foodordersystem\bin\foodordersystem.pdb
+C:\Users\USER\Documents\Visual Studio 2012\Projects\foodordersystem\foodordersystem\obj\Debug\foodordersystem.dll
+C:\Users\USER\Documents\Visual Studio 2012\Projects\foodordersystem\foodordersystem\obj\Debug\foodordersystem.pdb
+G:\New folder (5)\foodordersystem\foodordersystem\bin\foodordersystem.dll
+G:\New folder (5)\foodordersystem\foodordersystem\bin\foodordersystem.pdb
+G:\New folder (5)\foodordersystem\foodordersystem\obj\Debug\foodordersystem.dll
+G:\New folder (5)\foodordersystem\foodordersystem\obj\Debug\foodordersystem.pdb
+G:\New folder (5)\foodordersystem\foodordersystem\obj\Debug\foodordersystem.csprojResolveAssemblyReference.cache
+E:\study materials\prjct backup\11complete\foodordersystem\foodordersystem\bin\foodordersystem.dll
+E:\study materials\prjct backup\11complete\foodordersystem\foodordersystem\bin\foodordersystem.pdb
+E:\study materials\prjct backup\11complete\foodordersystem\foodordersystem\obj\Debug\foodordersystem.csprojResolveAssemblyReference.cache
+E:\study materials\prjct backup\11complete\foodordersystem\foodordersystem\obj\Debug\foodordersystem.dll
+E:\study materials\prjct backup\11complete\foodordersystem\foodordersystem\obj\Debug\foodordersystem.pdb
+G:\11complete\foodordersystem\foodordersystem\bin\foodordersystem.dll
+G:\11complete\foodordersystem\foodordersystem\bin\foodordersystem.pdb
+G:\11complete\foodordersystem\foodordersystem\obj\Debug\foodordersystem.csprojResolveAssemblyReference.cache
+G:\11complete\foodordersystem\foodordersystem\obj\Debug\foodordersystem.dll
+G:\11complete\foodordersystem\foodordersystem\obj\Debug\foodordersystem.pdb
+F:\Study materials\11complete\foodordersystem\foodordersystem\bin\foodordersystem.dll
+F:\Study materials\11complete\foodordersystem\foodordersystem\bin\foodordersystem.pdb
+F:\Study materials\11complete\foodordersystem\foodordersystem\obj\Debug\foodordersystem.csprojResolveAssemblyReference.cache
+F:\Study materials\11complete\foodordersystem\foodordersystem\obj\Debug\foodordersystem.dll
+F:\Study materials\11complete\foodordersystem\foodordersystem\obj\Debug\foodordersystem.pdb
